@@ -1,0 +1,2 @@
+# sinnifgecmenotortalamasi
+Sınıfı Geçme Durumu
